@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ericguo202
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fullstack development (HTML5/CSS/JavaScript/Node/React)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+#👋 Hi, I’m Eric!
+- 🛠️ I'm a sophomore studying Computer Science at Princeton University
+- 👀 I’m passionate about building AI-powered apps, like [InterviewPie](https://www.interviewpie.com)
+- 🛠️ I’m currently working as a **Software Developer** with Hoagie Club and Princeton's GICC, building [meal.exchange](https://meal.exchange) for students
+- 📫 How to reach me: [eric.guo171@gmail.com](mailto:eric.guo171@gmail.com)
 
 <!---
 ericguo202/ericguo202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
