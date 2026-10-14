@@ -1,4 +1,4 @@
-#👋 Hi, I’m Eric!
+## Hi, I’m Eric! 👋
 - 🛠️ I'm a sophomore studying Computer Science at Princeton University
 - 👀 I’m passionate about building AI-powered apps, like [InterviewPie](https://www.interviewpie.com)
 - 🛠️ I’m currently working as a **Software Developer** with Hoagie Club and Princeton's GICC, building [meal.exchange](https://meal.exchange) for students
